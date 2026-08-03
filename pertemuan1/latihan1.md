@@ -356,7 +356,17 @@ Jika dosen memberikan tugas tambahan pada latihan (misalnya mencoba algoritma De
 - Beri label gambar (misal: “Gambar 1. Pairplot dataset Iris”).
 - Jelaskan setiap output dengan kata-katamu sendiri. Ini menunjukkan pemahaman.
 - Periksa ejaan dan format penulisan sebelum mengumpulkan.
+- laporan
 
 ---
 
+## 📤 Pengumpulan
+
+Kumpulkan laporanmu dalam format **.doc/docx** melalui tautan berikut:
+
+🔗 **[Link Pengumpulan](https://forms.gle/jVSoE2yNzz3skQt87)**
+
+*Pastikan nama file: `Laporan1_[NIM]_[Nama].doc/docx`*
+
+---
 **Selamat menulis laporan!** Jika ada pertanyaan, diskusikan dengan asisten atau teman sekelas. Laporan yang baik adalah cerminan pemahaman yang baik.
