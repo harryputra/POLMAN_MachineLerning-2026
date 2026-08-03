@@ -7,6 +7,7 @@
 ## 🎯 Tujuan Latihan
 
 Setelah menyelesaikan latihan ini, kamu akan:
+
 - Menjalankan Jupyter Notebook.
 - Mengimpor *library* utama untuk machine learning.
 - Memuat dan memahami *dataset* sederhana.
@@ -19,6 +20,7 @@ Setelah menyelesaikan latihan ini, kamu akan:
 ## 🧰 Persiapan
 
 Sebelum memulai, pastikan:
+
 1. Lingkungan Python (Anaconda atau venv) sudah aktif (lihat panduan instalasi).
 2. Jupyter Notebook sudah berjalan. Buka terminal/command prompt di folder kerja kamu, lalu ketik `jupyter notebook`.
 3. Di browser, buat notebook baru: **New > Python 3** (atau nama environment kamu).
@@ -99,6 +101,7 @@ plt.show()
 ```
 
 **Apa yang bisa kita amati?**
+
 - Setiap spesies punya rentang ukuran yang berbeda.
 - Contoh: *setosa* umumnya memiliki petal (mahkota) yang lebih kecil.
 - Dari grafik, kita sudah bisa melihat bahwa data mungkin bisa dipisahkan dengan model sederhana.
@@ -179,6 +182,7 @@ print(classification_report(y_test, y_pred, target_names=iris.target_names))
 ```
 
 **Interpretasi:**
+
 - **Akurasi** menunjukkan seberapa sering model benar. 100%? Dataset Iris memang mudah dipisahkan.
 - **Confusion matrix** menunjukkan jumlah prediksi benar di diagonal. Kesalahan (off-diagonal) mungkin nol atau sedikit.
 - **Precision, Recall, F1-score** adalah metrik tambahan yang akan dipelajari lebih lanjut.
@@ -203,10 +207,12 @@ Apakah sesuai dengan pengetahuanmu tentang setosa?
 
 1. Ubah nilai `n_neighbors` menjadi 5, 7, atau 1. Apakah akurasinya berubah?
 2. Coba gunakan algoritma lain yang sudah tersedia, misalnya **Decision Tree**:
+
    ```python
    from sklearn.tree import DecisionTreeClassifier
    model = DecisionTreeClassifier(random_state=42)
    ```
+
    Bandingkan hasilnya.
 3. Ganti dataset dengan yang lain: coba `load_wine()` atau `load_diabetes()` (untuk regresi). Sesuaikan metrik evaluasi.
 4. Lakukan EDA lebih dalam: cek apakah ada hubungan antar fitur dengan korelasi (`df.corr()`).
@@ -216,6 +222,7 @@ Apakah sesuai dengan pengetahuanmu tentang setosa?
 ## ✅ Kesimpulan
 
 Kamu baru saja menyelesaikan siklus dasar machine learning:
+
 1. Mengerti masalah dan data.
 2. Mempersiapkan data.
 3. Melatih model.
@@ -226,8 +233,130 @@ Ini adalah fondasi yang akan terus kamu pakai, baik untuk model sederhana maupun
 ---
 
 **📌 Catatan untuk Dosen/Instruktur:**
+
 - Sesi ini bisa dilakukan dalam 1 pertemuan praktikum (90-120 menit).
 - Siswa dianjurkan untuk mengetik ulang kode (bukan copy-paste) agar lebih terbiasa.
 - Berikan umpan balik terhadap hasil mereka, terutama jika ada error, untuk membangun kepercayaan diri.
 
 *Selamat belajar, calon praktisi machine learning!*
+
+# Panduan Penulisan Laporan Praktikum
+
+## “Halo, Machine Learning!” – Klasifikasi Bunga Iris
+
+---
+
+Laporan ini bertujuan untuk mendokumentasikan pemahaman kamu setelah menyelesaikan latihan dasar terbimbing. Ikuti kerangka berikut. Kamu tidak perlu menyalin seluruh kode, cukup bagian penting dan hasilnya. Tulis dengan bahasa yang jelas dan rapi.
+
+---
+
+## 📄 Format Laporan
+
+### 1. Halaman Judul
+
+- Judul praktikum: **“Klasifikasi Bunga Iris dengan K-Nearest Neighbors”**
+- Nama, NIM, kelas
+- Tanggal praktikum
+
+---
+
+### 2. Tujuan Praktikum
+
+Tuliskan tujuan dari praktikum ini dengan kalimatmu sendiri. Contoh:
+> Memahami alur dasar machine learning: memuat data, eksplorasi, membagi data latih dan uji, melatih model KNN, serta mengevaluasi performa model pada dataset Iris.
+
+---
+
+### 3. Dasar Teori (Ringkas)
+
+Jelaskan secara singkat (2–3 paragraf) tentang:
+
+- Apa itu machine learning dan supervised learning.
+- Algoritma K-Nearest Neighbors: cara kerjanya (mencari mayoritas dari *k* tetangga terdekat).
+- Dataset Iris: fitur, kelas, jumlah sampel.
+- Konsep data latih, data uji, dan akurasi.
+
+---
+
+### 4. Langkah Percobaan dan Hasil
+
+Tuliskan langkah‑langkah utama yang kamu lakukan. Untuk setiap langkah, cantumkan **cuplikan kode penting** dan **output/hasil** yang muncul (bisa teks atau gambar grafik). Jangan lupa beri penjelasan singkat.
+
+#### 4.1 Import Library
+
+```python
+import numpy as np
+... (sebutkan library yang diimpor)
+```
+
+*Jelaskan kegunaan library tersebut.*
+
+#### 4.2 Memuat Dataset Iris
+
+- Tampilkan potongan kode `load_iris()`.
+- Tampilkan output: nama fitur, nama kelas, jumlah sampel.
+
+#### 4.3 Eksplorasi Data
+
+- Tampilkan `df.head()` dan `df.describe()`.
+- Sertakan visualisasi `pairplot` dan jelaskan apa yang terlihat (misalnya: “Setosa memiliki petal length dan width yang jauh lebih kecil dibanding spesies lain.”).
+
+#### 4.4 Membagi Data
+
+- Tampilkan kode `train_test_split`.
+- Tuliskan jumlah data latih dan data uji.
+
+#### 4.5 Membuat dan Melatih Model KNN
+
+- Kode `KNeighborsClassifier(n_neighbors=3)`.
+- Proses `fit`.
+
+#### 4.6 Prediksi dan Evaluasi
+
+- Kode prediksi.
+- Tampilkan akurasi dalam persen.
+- Tampilkan *confusion matrix* (heatmap) dan jelaskan artinya.
+- Sertakan *classification report* (precision, recall, f1-score) dan beri interpretasi singkat.
+
+#### 4.7 Prediksi Data Baru (Opsional)
+
+- Tampilkan contoh prediksi bunga baru dan hasilnya.
+
+---
+
+### 5. Analisis dan Pembahasan
+
+Ini bagian terpenting. Jawab pertanyaan-pertanyaan berikut dalam bentuk narasi:
+
+1. Mengapa kita perlu membagi data menjadi *train* dan *test*? Apa akibatnya jika tidak dilakukan?
+2. Apa yang terjadi jika nilai `k` pada KNN diubah menjadi 1 atau 10? (Coba sendiri dan laporkan perubahan akurasi)
+3. Fitur apa yang tampaknya paling membedakan spesies Iris berdasarkan visualisasi?
+4. Apakah model mengalami *overfitting*? Mengapa pada dataset ini akurasi bisa mencapai 100%?
+5. Apa kelebihan dan kekurangan KNN berdasarkan percobaan ini?
+
+---
+
+### 6. Kesimpulan
+
+Rangkum hasil praktikum dalam 1–2 paragraf. Contoh:
+> Praktikum berhasil menerapkan KNN untuk mengklasifikasikan bunga Iris. Model mencapai akurasi ...% pada data uji. Alur kerja ML (muat data → split → latih → evaluasi) telah dipahami. Perubahan parameter `k` mempengaruhi akurasi. Dataset Iris relatif mudah dipisahkan sehingga akurasi sempurna dapat dicapai.
+
+---
+
+### 7. Tugas Tambahan (Wajib)
+
+Jika dosen memberikan tugas tambahan pada latihan (misalnya mencoba algoritma Decision Tree atau mengganti dataset), laporkan di sini dengan format serupa: kode, hasil, dan analisis singkat.
+
+---
+
+## 📝 Tips Penulisan
+
+- Gunakan screenshot atau *snippet* untuk menampilkan grafik. Pastikan terbaca jelas.
+- Jangan copy-paste seluruh kode; cukup bagian yang relevan.
+- Beri label gambar (misal: “Gambar 1. Pairplot dataset Iris”).
+- Jelaskan setiap output dengan kata-katamu sendiri. Ini menunjukkan pemahaman.
+- Periksa ejaan dan format penulisan sebelum mengumpulkan.
+
+---
+
+**Selamat menulis laporan!** Jika ada pertanyaan, diskusikan dengan asisten atau teman sekelas. Laporan yang baik adalah cerminan pemahaman yang baik.
