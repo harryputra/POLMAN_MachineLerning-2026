@@ -1,0 +1,521 @@
+ID_Kejadian,Tanggal_Kejadian,ID_Mesin,Usia_Mesin_Tahun,Penyebab_Downtime,Durasi_Downtime_Menit,Beban_Kerja_Harian_Persen,Shift_Kejadian,Biaya_Perbaikan_Ribu_Rupiah
+DT0001,2025-09-03,M08,10.2,Kerusakan Elektrikal,70.5,98.2,Malam,
+DT0002,2025-11-11,M10,6.4,Kerusakan Mekanis,57.3,77.6,Malam,1149.0
+DT0003,2025-09-21,M05,7.2,Kerusakan Mekanis,59.9,43.4,Pagi,820.0
+DT0004,2025-08-23,M06,12.9,Kerusakan Mekanis,79.8,69.8,Siang,1757.0
+DT0005,2026-01-14,M07,8.5,Kerusakan Mekanis,64.4,100.0,Pagi,787.0
+DT0006,2025-10-03,M07,8.6,Kerusakan Mekanis,64.8,67.4,Malam,944.0
+DT0007,2025-12-25,M06,12.9,Kerusakan Mekanis,79.9,100.0,Pagi,
+DT0008,2025-12-12,M04,11.3,Kerusakan Mekanis,74.3,87.4,Malam,1285.0
+DT0009,2025-08-27,M09,6.1,Kekurangan Bahan Baku,56.0,65.9,Pagi,909.0
+DT0010,2025-09-04,M08,10.7,Pergantian Alat (Tooling Change),72.1,55.8,Malam,1828.0
+DT0011,2025-11-16,M01,6.5,Kerusakan Mekanis,57.6,77.1,Pagi,1232.0
+DT0012,2025-11-23,M07,8.7,Kekurangan Bahan Baku,65.2,91.1,Malam,1108.0
+DT0013,2025-09-20,M10,6.7,Kerusakan Mekanis,58.1,48.3,Malam,806.0
+DT0014,2025-08-29,M06,12.0,Pergantian Alat (Tooling Change),76.7,73.8,Siang,1602.0
+DT0015,2025-11-24,M10,6.1,Kerusakan Mekanis,56.2,41.4,Siang,825.0
+DT0016,2025-09-13,M04,11.4,Kerusakan Mekanis,74.8,66.9,Siang,1815.0
+DT0017,2025-09-01,M03,3.2,Kerusakan Elektrikal,45.9,47.2,Siang,576.0
+DT0018,2025-10-09,M05,6.4,Kerusakan Mekanis,57.2,80.4,Siang,824.0
+DT0019,2025-10-04,M02,7.6,Kerusakan Mekanis,61.4,61.7,Siang,1153.0
+DT0020,2025-10-13,M01,6.9,Kerusakan Mekanis,58.8,89.4,Siang,1125.0
+DT0021,2025-10-11,M06,13.0,Kekurangan Bahan Baku,80.1,63.9,Pagi,1591.0
+DT0022,2025-11-12,M01,6.1,Kerusakan Mekanis,56.0,62.5,Siang,314.0
+DT0023,2025-11-07,M01,6.6,Kerusakan Mekanis,57.8,47.8,Siang,1191.0
+DT0024,2025-08-07,M05,7.3,Pergantian Alat (Tooling Change),60.4,77.9,Malam,1031.0
+DT0025,2025-09-13,M03,2.5,Kerusakan Mekanis,43.6,79.4,Pagi,
+DT0026,2025-11-01,M02,8.5,Kerusakan Mekanis,64.6,86.1,Malam,1523.0
+DT0027,2025-12-12,M06,12.8,Kerusakan Elektrikal,79.7,81.8,Malam,2176.0
+DT0028,2025-08-06,M04,11.1,Kerusakan Mekanis,73.6,78.0,Malam,1726.0
+DT0029,2025-12-27,M07,8.2,Pergantian Alat (Tooling Change),63.4,80.9,Malam,1444.0
+DT0030,2025-08-18,M05,6.4,Kerusakan Mekanis,57.0,82.5,Pagi,1025.0
+DT0031,2025-11-26,M02,8.5,Kerusakan Mekanis,64.3,85.6,Pagi,1097.0
+DT0032,2025-09-10,M08,10.5,Pergantian Alat (Tooling Change),71.5,49.1,Malam,1185.0
+DT0033,2026-01-13,M10,6.3,Pergantian Alat (Tooling Change),56.7,65.1,Malam,236.0
+DT0034,2025-12-05,M08,10.9,Kekurangan Bahan Baku,73.0,47.7,Malam,335.0
+DT0035,2025-12-23,M02,8.9,Kerusakan Mekanis,66.0,77.0,Siang,702.0
+DT0036,2025-12-27,M06,13.4,Kerusakan Elektrikal,81.6,96.4,Malam,1721.0
+DT0037,2025-08-09,M02,8.6,Kesalahan Operator,64.7,85.4,Pagi,1253.0
+DT0038,2026-01-03,M01,6.5,Kerusakan Elektrikal,57.6,62.9,Pagi,999.0
+DT0039,2025-08-16,M02,8.4,Kesalahan Operator,64.1,79.6,Pagi,1011.0
+DT0040,2025-11-08,M09,5.7,Kekurangan Bahan Baku,54.8,77.2,Pagi,1357.0
+DT0041,2025-11-29,M10,6.3,Pergantian Alat (Tooling Change),56.9,75.5,Pagi,513.0
+DT0042,2026-01-12,M06,12.5,Kerusakan Mekanis,78.6,52.4,Pagi,1910.0
+DT0043,2025-12-11,M09,6.2,Kesalahan Operator,56.3,91.7,Malam,492.0
+DT0044,2025-12-09,M05,6.6,Pergantian Alat (Tooling Change),57.8,54.3,Pagi,1230.0
+DT0045,2026-01-25,M01,6.5,Pergantian Alat (Tooling Change),57.4,66.5,Malam,612.0
+DT0046,2025-08-03,M10,6.3,Kesalahan Operator,56.9,86.4,Siang,684.0
+DT0047,2025-08-01,M08,10.7,Pergantian Alat (Tooling Change),72.2,66.4,Siang,1193.0
+DT0048,2025-09-04,M07,7.8,Kerusakan Elektrikal,62.0,73.2,Pagi,993.0
+DT0049,2025-09-13,M01,6.6,Kekurangan Bahan Baku,57.9,73.8,Pagi,296.0
+DT0050,2025-10-31,M10,6.0,Pergantian Alat (Tooling Change),55.6,73.0,Pagi,1299.0
+DT0051,2025-12-31,M01,7.0,Kekurangan Bahan Baku,59.2,73.7,Pagi,739.0
+DT0052,2025-10-11,M01,6.9,Kerusakan Elektrikal,58.9,75.2,Malam,1320.0
+DT0053,2026-01-11,M01,5.9,Kerusakan Elektrikal,55.5,73.1,Siang,490.0
+DT0054,2025-11-26,M10,6.4,Pergantian Alat (Tooling Change),57.3,58.6,Pagi,395.0
+DT0055,2025-10-25,M09,6.1,Kerusakan Mekanis,56.2,48.7,Pagi,1402.0
+DT0056,2025-12-24,M02,8.1,Kekurangan Bahan Baku,63.0,87.0,Siang,
+DT0057,2025-10-28,M05,7.1,Kerusakan Elektrikal,59.7,87.7,Siang,701.0
+DT0058,2025-08-08,M06,12.3,Pergantian Alat (Tooling Change),77.8,77.1,Malam,1362.0
+DT0059,2026-01-04,M06,13.0,Kerusakan Mekanis,80.3,76.9,Pagi,1825.0
+DT0060,2025-08-25,M03,2.7,Kerusakan Elektrikal,44.0,58.3,Malam,630.0
+DT0061,2025-10-24,M01,6.2,Kerusakan Mekanis,56.3,35.4,Pagi,
+DT0062,2025-08-29,M01,7.3,Kekurangan Bahan Baku,60.1,68.3,Pagi,752.0
+DT0063,2025-12-23,M10,5.7,Kekurangan Bahan Baku,54.8,43.5,Siang,1131.0
+DT0064,2025-11-25,M07,8.1,Kekurangan Bahan Baku,63.2,74.8,Pagi,446.0
+DT0065,2026-01-21,M10,6.0,Kerusakan Elektrikal,55.8,91.6,Pagi,
+DT0066,2026-01-06,M09,5.9,Kerusakan Mekanis,55.3,62.8,Siang,972.0
+DT0067,2025-09-17,M03,3.1,Kekurangan Bahan Baku,45.4,63.6,Malam,865.0
+DT0068,2025-09-16,M01,6.6,Pergantian Alat (Tooling Change),58.0,56.9,Pagi,
+DT0069,2025-09-20,M07,8.7,Kekurangan Bahan Baku,65.1,72.7,Malam,606.0
+DT0070,2025-08-29,M03,3.0,Kerusakan Mekanis,45.1,71.5,Siang,
+DT0071,2026-01-19,M07,7.9,Kerusakan Elektrikal,62.3,56.7,Siang,
+DT0072,2025-08-16,M10,6.4,Kekurangan Bahan Baku,57.0,85.7,Pagi,741.0
+DT0073,2025-10-17,M10,6.3,Kerusakan Elektrikal,56.7,100.0,Malam,247.0
+DT0074,2025-09-21,M03,2.7,Kerusakan Elektrikal,44.0,89.8,Malam,1097.0
+DT0075,2025-08-03,M05,7.5,Kesalahan Operator,60.9,70.3,Siang,1101.0
+DT0076,2025-12-31,M08,10.9,Pergantian Alat (Tooling Change),73.0,70.2,Pagi,1079.0
+DT0077,2025-10-31,M03,3.1,Kerusakan Mekanis,45.7,64.3,Malam,1164.0
+DT0078,2026-01-08,M06,13.0,Kerusakan Elektrikal,80.2,64.0,Siang,1573.0
+DT0079,2025-11-21,M04,11.4,Kekurangan Bahan Baku,74.7,86.4,Siang,
+DT0080,2025-10-30,M06,12.9,Pergantian Alat (Tooling Change),79.8,87.0,Siang,939.0
+DT0081,2025-09-14,M07,8.5,Kerusakan Mekanis,64.3,54.5,Malam,984.0
+DT0082,2025-11-17,M09,-5.9,Kerusakan Mekanis,55.2,77.5,Malam,
+DT0083,2025-12-12,M05,6.5,Kerusakan Elektrikal,57.5,88.7,Siang,
+DT0084,2025-08-06,M03,2.9,Kerusakan Elektrikal,44.7,66.7,Pagi,945.0
+DT0085,2025-09-12,M01,6.8,Kerusakan Mekanis,58.5,68.8,Siang,875.0
+DT0086,2025-10-06,M07,8.4,Kesalahan Operator,64.0,82.4,Siang,1252.0
+DT0087,2025-08-22,M09,6.0,Kerusakan Mekanis,55.6,82.9,Siang,396.0
+DT0088,2025-08-16,M05,6.9,Kerusakan Mekanis,58.8,78.4,Siang,1174.0
+DT0089,2025-09-15,M09,5.9,Kerusakan Mekanis,55.5,75.8,Siang,
+DT0090,2025-10-02,M05,7.3,Kerusakan Mekanis,60.4,77.8,Siang,1322.0
+DT0091,2025-11-06,M05,6.9,Kerusakan Mekanis,59.0,67.8,Siang,842.0
+DT0092,2025-12-27,M01,6.5,Kerusakan Mekanis,57.4,55.2,Siang,822.0
+DT0093,2026-01-04,M06,12.1,Kerusakan Mekanis,77.2,48.7,Malam,658.0
+DT0094,2025-10-09,M06,12.6,Kerusakan Elektrikal,78.9,80.9,Siang,
+DT0095,2025-11-05,M05,6.7,Kerusakan Elektrikal,58.2,73.6,Siang,1258.0
+DT0096,2025-08-03,M06,12.5,Kerusakan Elektrikal,78.5,78.8,Pagi,
+DT0097,2026-01-03,M06,13.0,Kesalahan Operator,80.1,59.6,Siang,1257.0
+DT0098,2025-09-12,M07,8.4,Kesalahan Operator,64.1,73.5,Pagi,1116.0
+DT0099,2025-08-12,M02,8.0,Kerusakan Elektrikal,62.7,73.2,Siang,961.0
+DT0100,2025-11-19,M06,12.9,Kerusakan Mekanis,79.8,91.2,Pagi,1326.0
+DT0101,2025-10-08,M05,6.4,Kekurangan Bahan Baku,57.1,84.8,Malam,903.0
+DT0102,2025-10-15,M04,11.7,Kerusakan Mekanis,75.8,60.9,Malam,837.0
+DT0103,2025-10-19,M05,6.7,Pergantian Alat (Tooling Change),58.3,79.6,Malam,596.0
+DT0104,2025-11-23,M07,8.4,Kerusakan Elektrikal,64.1,60.8,Pagi,1446.0
+DT0105,2025-12-25,M10,6.2,Kerusakan Mekanis,56.4,32.8,Siang,528.0
+DT0106,2025-11-13,M03,2.8,Kerusakan Elektrikal,44.5,97.9,Siang,1167.0
+DT0107,2025-11-20,M01,6.7,Pergantian Alat (Tooling Change),58.1,66.4,Pagi,1452.0
+DT0108,2025-12-27,M04,11.6,Kerusakan Elektrikal,75.2,87.6,Malam,1417.0
+DT0109,2025-12-22,M04,12.1,Kekurangan Bahan Baku,77.1,62.1,Malam,817.0
+DT0110,2025-09-01,M01,6.7,Kekurangan Bahan Baku,58.2,59.9,Siang,870.0
+DT0111,2025-10-01,M05,-6.9,Kerusakan Elektrikal,59.0,63.8,Malam,934.0
+DT0112,2025-10-30,M06,12.5,Kerusakan Mekanis,78.4,75.8,Pagi,1437.0
+DT0113,2026-01-18,M09,6.1,Kerusakan Elektrikal,56.2,74.6,Malam,1407.0
+DT0114,2025-11-20,M07,8.1,Kerusakan Mekanis,62.9,79.5,Malam,1284.0
+DT0115,2025-12-27,M05,7.2,Kerusakan Elektrikal,60.0,64.6,Malam,
+DT0116,2025-12-24,M07,7.9,Kerusakan Mekanis,62.5,72.6,Siang,791.0
+DT0117,2026-01-15,M03,2.6,Kesalahan Operator,43.8,59.4,Pagi,1240.0
+DT0118,2025-11-03,M02,8.0,Kekurangan Bahan Baku,62.8,94.0,Siang,963.0
+DT0119,2025-09-18,M06,12.8,Kerusakan Mekanis,79.6,52.3,Malam,735.0
+DT0120,2025-10-15,M05,6.7,Pergantian Alat (Tooling Change),58.3,59.7,Siang,683.0
+DT0121,2025-08-02,M03,3.1,Kekurangan Bahan Baku,45.4,65.6,Pagi,1220.0
+DT0122,2025-12-04,M09,5.7,Kekurangan Bahan Baku,54.8,100.0,Siang,1256.0
+DT0123,2025-11-21,M06,12.8,Kerusakan Mekanis,79.7,83.5,Pagi,1315.0
+DT0124,2025-08-31,M06,12.9,Kerusakan Elektrikal,79.7,59.2,Siang,1517.0
+DT0125,2025-10-30,M07,8.4,Kerusakan Elektrikal,64.2,84.3,Siang,1374.0
+DT0126,2025-12-10,M03,2.9,Kerusakan Mekanis,44.7,79.7,Pagi,
+DT0127,2025-12-21,M06,12.7,Kerusakan Elektrikal,79.3,76.1,Siang,940.0
+DT0128,2025-12-21,M09,5.7,Kerusakan Mekanis,54.8,82.4,Siang,608.0
+DT0129,2025-08-18,M07,8.0,Pergantian Alat (Tooling Change),62.9,72.9,Malam,377.0
+DT0130,2025-10-08,M09,-6.2,Kesalahan Operator,56.4,74.6,Pagi,557.0
+DT0131,2025-11-17,M01,6.5,Kerusakan Mekanis,57.5,48.7,Siang,893.0
+DT0132,2025-08-20,M08,10.9,Kerusakan Mekanis,72.8,93.6,Siang,1499.0
+DT0133,2025-09-06,M07,8.8,Kerusakan Mekanis,65.6,65.3,Pagi,428.0
+DT0134,2026-01-20,M09,5.9,Pergantian Alat (Tooling Change),55.3,53.4,Pagi,850.0
+DT0135,2025-11-03,M10,6.0,Kerusakan Mekanis,55.8,64.4,Siang,
+DT0136,2025-11-14,M02,8.4,Pergantian Alat (Tooling Change),64.2,65.0,Malam,984.0
+DT0137,2025-08-29,M05,6.9,Pergantian Alat (Tooling Change),58.8,60.0,Malam,
+DT0138,2025-11-25,M10,6.4,Kerusakan Mekanis,57.1,83.7,Malam,1201.0
+DT0139,2026-01-14,M09,6.0,Pergantian Alat (Tooling Change),55.8,86.6,Malam,988.0
+DT0140,2026-01-23,M02,9.1,Kerusakan Elektrikal,66.7,42.6,Siang,917.0
+DT0141,2025-09-03,M06,12.8,Kerusakan Mekanis,79.6,64.3,Pagi,403.0
+DT0142,2025-09-10,M04,11.8,Pergantian Alat (Tooling Change),75.9,65.4,Siang,856.0
+DT0143,2025-11-14,M08,10.7,Kerusakan Elektrikal,72.3,69.4,Siang,
+DT0144,2026-01-10,M06,13.0,Kerusakan Mekanis,80.2,97.6,Pagi,1524.0
+DT0145,2025-08-02,M04,11.5,Kekurangan Bahan Baku,74.9,59.8,Pagi,854.0
+DT0146,2025-09-11,M05,6.7,Kekurangan Bahan Baku,58.1,95.4,Pagi,1028.0
+DT0147,2025-08-29,M10,6.5,Kekurangan Bahan Baku,57.4,69.8,Malam,
+DT0148,2025-12-23,M04,11.5,Kerusakan Mekanis,75.0,95.6,Pagi,1215.0
+DT0149,2025-10-31,M03,2.9,Kekurangan Bahan Baku,45.0,67.3,Siang,1126.0
+DT0150,2025-12-09,M02,8.8,Kerusakan Mekanis,65.5,65.6,Pagi,881.0
+DT0151,2025-08-08,M02,8.6,Kerusakan Elektrikal,64.7,71.7,Siang,1155.0
+DT0152,2025-08-25,M01,6.6,Kerusakan Mekanis,57.8,91.4,Siang,1593.0
+DT0153,2025-11-08,M01,6.5,Kerusakan Elektrikal,57.4,74.4,Pagi,1249.0
+DT0154,2025-10-16,M06,13.0,Pergantian Alat (Tooling Change),80.2,75.1,Siang,1480.0
+DT0155,2025-09-03,M06,12.6,Kerusakan Mekanis,78.8,81.6,Malam,1167.0
+DT0156,2025-09-17,M08,10.7,Kerusakan Mekanis,72.3,58.8,Siang,1475.0
+DT0157,2025-12-11,M07,8.5,Kekurangan Bahan Baku,64.3,77.1,Malam,1340.0
+DT0158,2025-08-03,M02,8.6,Kerusakan Mekanis,64.8,62.6,Malam,
+DT0159,2026-01-06,M07,8.7,Kerusakan Mekanis,65.1,94.1,Siang,
+DT0160,2025-08-30,M05,6.8,Kerusakan Elektrikal,58.7,78.3,Malam,
+DT0161,2025-12-17,M02,8.9,Kerusakan Elektrikal,66.0,82.4,Pagi,1272.0
+DT0162,2025-11-24,M07,8.3,Kerusakan Mekanis,63.8,41.4,Siang,819.0
+DT0163,2025-08-12,M07,8.5,Kekurangan Bahan Baku,64.4,82.6,Siang,515.0
+DT0164,2025-12-18,M05,6.8,Kerusakan Mekanis,58.6,69.3,Pagi,1218.0
+DT0165,2025-10-30,M02,9.1,Pergantian Alat (Tooling Change),66.7,50.4,Malam,1338.0
+DT0166,2025-09-25,M01,-6.5,Kekurangan Bahan Baku,57.6,73.4,Malam,991.0
+DT0167,2025-08-21,M08,10.7,Kerusakan Mekanis,72.1,49.2,Siang,1202.0
+DT0168,2025-08-22,M02,8.5,Kekurangan Bahan Baku,64.6,81.2,Malam,
+DT0169,2025-10-14,M03,2.8,Kekurangan Bahan Baku,44.4,93.5,Malam,1116.0
+DT0170,2025-09-23,M07,8.5,Kesalahan Operator,64.3,45.1,Malam,
+DT0171,2026-01-01,M05,7.2,Kekurangan Bahan Baku,60.1,71.6,Pagi,572.0
+DT0172,2025-11-08,M09,6.1,Kerusakan Mekanis,56.0,69.5,Siang,546.0
+DT0173,2025-08-08,M04,11.6,Kekurangan Bahan Baku,75.3,42.2,Siang,
+DT0174,2026-01-08,M09,6.0,Kekurangan Bahan Baku,55.6,85.7,Malam,476.0
+DT0175,2025-09-16,M04,11.4,Kekurangan Bahan Baku,74.6,81.4,Pagi,1232.0
+DT0176,2025-11-20,M01,6.7,Kerusakan Elektrikal,58.0,100.0,Malam,1057.0
+DT0177,2025-12-30,M08,10.8,Pergantian Alat (Tooling Change),72.4,79.4,Siang,
+DT0178,2025-12-01,M07,8.7,Kerusakan Mekanis,65.2,58.8,Malam,1359.0
+DT0179,2025-10-14,M10,5.9,Kesalahan Operator,55.4,79.7,Pagi,1144.0
+DT0180,2025-08-02,M01,7.1,Kerusakan Mekanis,59.5,91.3,Malam,1177.0
+DT0181,2025-09-13,M06,12.6,Kerusakan Mekanis,79.0,65.0,Siang,864.0
+DT0182,2025-11-13,M08,10.8,Kerusakan Mekanis,72.5,84.8,Malam,1831.0
+DT0183,2026-01-21,M05,6.5,Kesalahan Operator,57.6,36.7,Siang,
+DT0184,2025-08-07,M03,3.0,Pergantian Alat (Tooling Change),45.3,94.1,Malam,
+DT0185,2025-08-29,M03,2.6,Kerusakan Elektrikal,43.7,84.0,Malam,595.0
+DT0186,2025-10-05,M01,6.7,Kesalahan Operator,58.3,33.8,Pagi,1349.0
+DT0187,2025-12-23,M07,8.4,Kerusakan Mekanis,64.3,77.7,Siang,460.0
+DT0188,2026-01-21,M08,10.7,Kerusakan Mekanis,72.0,42.2,Siang,1698.0
+DT0189,2025-09-02,M05,6.2,Kerusakan Mekanis,56.6,62.8,Pagi,
+DT0190,2025-11-15,M01,7.3,Kerusakan Elektrikal,60.2,82.2,Malam,975.0
+DT0191,2026-01-24,M08,10.4,Kerusakan Elektrikal,71.3,70.0,Pagi,866.0
+DT0192,2026-01-30,M10,6.3,Kerusakan Mekanis,56.7,90.8,Pagi,1005.0
+DT0193,2025-12-22,M07,8.1,Kerusakan Mekanis,63.2,73.0,Pagi,1149.0
+DT0194,2025-12-21,M01,6.9,Kerusakan Mekanis,59.0,71.4,Siang,571.0
+DT0195,2025-09-20,M05,6.8,Kerusakan Mekanis,58.4,88.5,Malam,371.0
+DT0196,2025-09-26,M06,12.5,Kerusakan Elektrikal,78.3,66.9,Pagi,739.0
+DT0197,2026-01-28,M10,6.4,Kerusakan Elektrikal,57.1,71.6,Siang,342.0
+DT0198,2025-11-22,M05,6.5,Kerusakan Mekanis,57.4,73.6,Siang,960.0
+DT0199,2025-08-21,M01,6.5,Kerusakan Mekanis,57.5,71.0,Siang,470.0
+DT0200,2025-08-13,M08,11.0,Kekurangan Bahan Baku,73.1,89.4,Pagi,1229.0
+DT0201,2026-01-05,M07,8.8,Pergantian Alat (Tooling Change),65.6,62.0,Malam,1316.0
+DT0202,2025-08-24,M03,2.6,Kerusakan Elektrikal,43.7,59.5,Siang,1353.0
+DT0203,2025-12-07,M05,6.7,Kerusakan Elektrikal,58.1,56.1,Pagi,708.0
+DT0204,2025-09-28,M01,6.7,Kesalahan Operator,58.3,39.9,Malam,1091.0
+DT0205,2025-09-01,M02,7.9,Kekurangan Bahan Baku,62.4,94.3,Siang,1494.0
+DT0206,2025-08-21,M04,11.9,Kerusakan Mekanis,76.5,58.5,Siang,1431.0
+DT0207,2025-11-09,M01,6.3,Pergantian Alat (Tooling Change),56.9,68.4,Pagi,986.0
+DT0208,2025-12-26,M03,2.7,Kerusakan Elektrikal,44.2,95.4,Siang,1021.0
+DT0209,2025-08-03,M07,8.4,Kerusakan Elektrikal,64.3,69.9,Pagi,534.0
+DT0210,2025-12-07,M04,11.6,Kekurangan Bahan Baku,75.2,79.7,Malam,1699.0
+DT0211,2025-11-13,M02,8.2,Kerusakan Elektrikal,63.5,50.7,Siang,1565.0
+DT0212,2025-12-24,M07,8.9,Pergantian Alat (Tooling Change),65.8,93.0,Pagi,707.0
+DT0213,2025-11-15,M09,5.2,Kerusakan Mekanis,53.1,70.2,Malam,795.0
+DT0214,2025-08-24,M06,12.3,Kerusakan Elektrikal,77.9,56.7,Malam,863.0
+DT0215,2025-10-14,M04,11.3,Kerusakan Mekanis,74.4,56.7,Malam,
+DT0216,2026-01-28,M09,5.7,Kekurangan Bahan Baku,54.8,97.3,Siang,1418.0
+DT0217,2025-12-29,M04,11.9,Kerusakan Mekanis,76.4,63.2,Pagi,564.0
+DT0218,2025-10-04,M01,6.1,Kerusakan Elektrikal,56.2,57.1,Pagi,733.0
+DT0219,2026-01-18,M07,8.8,Pergantian Alat (Tooling Change),65.6,65.5,Siang,1393.0
+DT0220,2025-08-02,M08,10.7,Kerusakan Mekanis,72.1,72.7,Pagi,942.0
+DT0221,2025-11-06,M03,2.4,Kerusakan Mekanis,43.3,74.3,Malam,389.0
+DT0222,2025-12-20,M04,10.9,Kerusakan Elektrikal,72.9,78.7,Pagi,922.0
+DT0223,2025-12-02,M01,6.6,Kerusakan Elektrikal,57.7,75.5,Malam,280.0
+DT0224,2025-09-02,M05,6.7,Kerusakan Mekanis,58.0,81.7,Siang,751.0
+DT0225,2025-08-27,M05,6.9,Kerusakan Mekanis,59.0,67.9,Malam,
+DT0226,2025-12-15,M03,2.7,Kerusakan Mekanis,44.2,100.0,Malam,
+DT0227,2026-01-30,M06,13.0,Kerusakan Mekanis,80.1,64.7,Siang,1256.0
+DT0228,2025-12-18,M07,8.3,Pergantian Alat (Tooling Change),63.9,92.3,Malam,1484.0
+DT0229,2026-01-05,M05,6.7,Kerusakan Mekanis,58.3,63.0,Siang,1265.0
+DT0230,2026-01-14,M08,11.0,Kerusakan Elektrikal,73.4,50.6,Pagi,1759.0
+DT0231,2026-01-21,M05,6.9,Kerusakan Mekanis,59.0,47.0,Malam,1515.0
+DT0232,2025-12-23,M05,7.1,Kesalahan Operator,59.6,76.6,Pagi,965.0
+DT0233,2025-12-21,M07,8.7,Pergantian Alat (Tooling Change),65.2,89.4,Pagi,846.0
+DT0234,2025-12-23,M02,8.4,Kerusakan Elektrikal,64.2,54.7,Siang,791.0
+DT0235,2025-09-29,M09,6.0,Kekurangan Bahan Baku,55.8,58.8,Siang,1403.0
+DT0236,2025-11-07,M07,8.6,Kerusakan Mekanis,64.9,77.8,Siang,1400.0
+DT0237,2025-09-10,M04,10.8,Kerusakan Mekanis,72.5,72.0,Pagi,1671.0
+DT0238,2025-11-06,M03,2.8,Kerusakan Elektrikal,44.6,63.2,Siang,
+DT0239,2025-11-02,M08,10.7,Kerusakan Elektrikal,72.1,52.8,Siang,478.0
+DT0240,2025-08-13,M01,6.7,Kerusakan Mekanis,58.3,76.6,Pagi,177.0
+DT0241,2025-08-16,M01,6.4,Kerusakan Elektrikal,57.1,81.8,Siang,560.0
+DT0242,2026-01-22,M07,8.7,Kekurangan Bahan Baku,65.2,79.4,Siang,1292.0
+DT0243,2025-11-10,M05,6.6,Pergantian Alat (Tooling Change),58.0,72.4,Pagi,1154.0
+DT0244,2025-08-06,M02,8.4,Pergantian Alat (Tooling Change),64.0,56.2,Malam,
+DT0245,2025-10-07,M04,11.3,Kerusakan Elektrikal,74.4,76.7,Siang,278.0
+DT0246,2026-01-11,M08,11.1,Kekurangan Bahan Baku,73.7,75.6,Malam,1227.0
+DT0247,2025-12-12,M05,6.2,Kerusakan Elektrikal,56.6,52.3,Pagi,558.0
+DT0248,2025-12-29,M06,13.2,Kerusakan Mekanis,81.0,67.5,Pagi,1047.0
+DT0249,2025-11-23,M01,7.1,Kekurangan Bahan Baku,59.5,77.5,Malam,860.0
+DT0250,2025-12-07,M08,10.6,Kerusakan Mekanis,71.8,70.8,Malam,
+DT0251,2025-09-15,M02,8.8,Pergantian Alat (Tooling Change),65.6,42.6,Malam,
+DT0252,2026-01-02,M03,2.9,Kerusakan Mekanis,44.8,62.4,Malam,193.0
+DT0253,2025-12-13,M03,-3.3,Kerusakan Mekanis,46.4,61.4,Pagi,
+DT0254,2025-09-13,M05,7.2,Kerusakan Mekanis,59.8,80.4,Malam,1116.0
+DT0255,2025-09-26,M03,3.5,Pergantian Alat (Tooling Change),47.0,100.0,Pagi,432.0
+DT0256,2025-12-19,M09,5.6,Kerusakan Mekanis,54.2,74.0,Siang,575.0
+DT0257,2025-09-15,M04,11.6,Kerusakan Elektrikal,75.3,54.0,Malam,1086.0
+DT0258,2025-12-01,M01,6.1,Kerusakan Mekanis,56.1,69.6,Siang,940.0
+DT0259,2025-10-16,M05,6.7,Kekurangan Bahan Baku,58.2,72.2,Malam,996.0
+DT0260,2025-09-22,M02,9.2,Kerusakan Elektrikal,66.9,83.3,Malam,
+DT0261,2025-08-29,M03,3.0,Kesalahan Operator,45.2,90.6,Malam,442.0
+DT0262,2025-12-11,M06,13.0,Kerusakan Mekanis,80.2,92.9,Malam,
+DT0263,2025-09-29,M07,8.5,Kerusakan Mekanis,64.6,80.1,Siang,597.0
+DT0264,2025-11-10,M07,8.5,Kerusakan Mekanis,64.5,72.0,Siang,730.0
+DT0265,2025-09-17,M04,11.4,Kerusakan Elektrikal,74.6,94.3,Pagi,998.0
+DT0266,2025-08-27,M09,5.8,Pergantian Alat (Tooling Change),55.1,66.8,Siang,631.0
+DT0267,2025-08-04,M01,6.5,Kerusakan Mekanis,57.3,72.8,Malam,1587.0
+DT0268,2026-01-19,M04,10.7,Kesalahan Operator,72.2,68.3,Pagi,1618.0
+DT0269,2025-09-25,M03,2.8,Kerusakan Mekanis,44.6,40.0,Siang,774.0
+DT0270,2025-11-14,M01,6.7,Pergantian Alat (Tooling Change),58.2,91.1,Malam,531.0
+DT0271,2025-10-25,M06,12.5,Kekurangan Bahan Baku,78.5,82.1,Siang,1700.0
+DT0272,2025-10-07,M01,6.6,Kesalahan Operator,57.8,36.4,Siang,846.0
+DT0273,2025-12-30,M07,8.5,Kerusakan Elektrikal,64.6,87.0,Malam,
+DT0274,2026-01-14,M09,6.3,Kekurangan Bahan Baku,56.7,67.4,Malam,1094.0
+DT0275,2025-09-03,M08,10.4,Kerusakan Mekanis,71.1,86.8,Malam,1584.0
+DT0276,2025-08-06,M07,8.1,Kerusakan Mekanis,63.2,73.1,Pagi,
+DT0277,2025-09-29,M03,3.1,Pergantian Alat (Tooling Change),45.5,51.6,Pagi,
+DT0278,2025-08-19,M07,8.5,Kerusakan Mekanis,64.6,72.4,Malam,1366.0
+DT0279,2025-08-06,M06,13.1,Pergantian Alat (Tooling Change),80.5,58.5,Malam,720.0
+DT0280,2025-12-26,M05,7.3,Kerusakan Mekanis,60.1,53.7,Pagi,1877.0
+DT0281,2025-08-14,M05,7.6,Kerusakan Mekanis,61.3,85.0,Siang,794.0
+DT0282,2025-08-13,M02,8.4,Kekurangan Bahan Baku,64.2,77.9,Pagi,1201.0
+DT0283,2025-10-05,M09,6.5,Kerusakan Mekanis,57.5,94.5,Pagi,1450.0
+DT0284,2025-11-12,M09,5.7,Kekurangan Bahan Baku,54.8,66.1,Siang,1184.0
+DT0285,2025-10-31,M08,11.5,Kesalahan Operator,74.9,57.6,Pagi,1605.0
+DT0286,2025-12-15,M06,12.8,Kerusakan Mekanis,79.6,81.6,Siang,
+DT0287,2025-12-15,M02,8.7,Kerusakan Mekanis,65.1,59.5,Siang,907.0
+DT0288,2025-08-04,M07,8.7,Kerusakan Mekanis,65.1,67.3,Pagi,1062.0
+DT0289,2025-12-18,M10,5.8,Kerusakan Elektrikal,55.0,79.9,Siang,691.0
+DT0290,2025-08-08,M02,8.2,Kekurangan Bahan Baku,63.4,70.1,Siang,1005.0
+DT0291,2026-01-15,M04,11.6,Kesalahan Operator,75.2,64.7,Pagi,1795.0
+DT0292,2025-09-25,M10,6.3,Kerusakan Mekanis,56.8,51.0,Pagi,879.0
+DT0293,2026-01-14,M10,6.8,Kerusakan Mekanis,58.6,86.1,Siang,1427.0
+DT0294,2026-01-30,M05,6.6,Kerusakan Mekanis,57.8,66.5,Malam,973.0
+DT0295,2025-08-19,M03,-3.3,Kerusakan Mekanis,46.3,81.3,Siang,791.0
+DT0296,2025-10-09,M03,2.8,Kerusakan Elektrikal,44.4,79.3,Siang,
+DT0297,2025-08-21,M05,-6.8,Kesalahan Operator,58.5,88.4,Siang,1364.0
+DT0298,2026-01-25,M04,11.5,Kerusakan Mekanis,74.9,68.5,Malam,1050.0
+DT0299,2025-10-30,M06,12.6,Pergantian Alat (Tooling Change),78.8,66.8,Malam,1173.0
+DT0300,2026-01-01,M01,6.8,Kerusakan Elektrikal,58.4,55.4,Siang,1311.0
+DT0301,2025-11-16,M01,6.5,Pergantian Alat (Tooling Change),57.5,63.9,Pagi,676.0
+DT0302,2026-01-03,M01,6.2,Pergantian Alat (Tooling Change),56.4,77.1,Siang,757.0
+DT0303,2025-11-18,M08,10.7,Pergantian Alat (Tooling Change),72.1,59.7,Malam,1628.0
+DT0304,2025-08-09,M10,6.3,Kerusakan Elektrikal,56.9,76.7,Siang,
+DT0305,2025-10-29,M02,8.1,Kerusakan Mekanis,63.0,94.0,Siang,504.0
+DT0306,2025-11-28,M10,6.4,Kerusakan Mekanis,57.1,65.3,Malam,1676.0
+DT0307,2026-01-27,M02,8.9,Kerusakan Mekanis,65.7,52.3,Pagi,1230.0
+DT0308,2025-12-31,M01,7.1,Kerusakan Elektrikal,59.5,65.8,Pagi,841.0
+DT0309,2025-11-02,M03,3.0,Kesalahan Operator,45.1,50.7,Pagi,424.0
+DT0310,2025-12-26,M03,-2.3,Kerusakan Elektrikal,42.8,92.0,Malam,694.0
+DT0311,2026-01-19,M10,6.4,Kerusakan Elektrikal,57.1,73.3,Malam,725.0
+DT0312,2026-01-08,M02,8.8,Kerusakan Mekanis,65.5,61.1,Malam,1701.0
+DT0313,2026-01-28,M10,6.0,Kekurangan Bahan Baku,55.7,63.6,Pagi,476.0
+DT0314,2025-10-05,M09,6.0,Kerusakan Mekanis,55.7,54.3,Malam,654.0
+DT0315,2025-10-21,M05,7.0,Kerusakan Mekanis,59.3,87.2,Pagi,1067.0
+DT0316,2025-08-03,M07,8.9,Kerusakan Mekanis,65.9,99.6,Malam,1572.0
+DT0317,2025-08-25,M06,12.6,Pergantian Alat (Tooling Change),78.9,49.6,Siang,1571.0
+DT0318,2025-12-28,M10,6.5,Kerusakan Mekanis,57.4,87.6,Pagi,749.0
+DT0319,2025-09-29,M03,2.9,Kesalahan Operator,45.0,68.3,Siang,205.0
+DT0320,2025-10-20,M10,6.3,Kerusakan Elektrikal,56.7,91.0,Malam,1753.0
+DT0321,2025-10-05,M05,7.3,Kekurangan Bahan Baku,60.2,44.5,Siang,1521.0
+DT0322,2026-01-17,M10,6.0,Pergantian Alat (Tooling Change),55.6,75.4,Malam,997.0
+DT0323,2026-01-10,M10,6.3,Pergantian Alat (Tooling Change),56.7,65.9,Pagi,
+DT0324,2025-12-14,M09,6.0,Kerusakan Mekanis,55.8,81.9,Malam,
+DT0325,2026-01-24,M08,10.3,Kerusakan Mekanis,70.8,72.9,Siang,1763.0
+DT0326,2025-11-09,M05,7.2,Kerusakan Mekanis,60.1,72.3,Siang,
+DT0327,2025-09-01,M07,8.6,Kerusakan Elektrikal,64.9,70.4,Malam,814.0
+DT0328,2025-11-25,M03,2.9,Kerusakan Mekanis,44.7,95.4,Pagi,293.0
+DT0329,2025-08-04,M03,2.8,Kekurangan Bahan Baku,44.4,69.4,Malam,1143.0
+DT0330,2025-10-16,M08,10.8,Kerusakan Mekanis,72.4,85.0,Pagi,1209.0
+DT0331,2025-12-31,M08,11.0,Kesalahan Operator,73.1,81.4,Malam,1239.0
+DT0332,2025-09-02,M03,2.9,Pergantian Alat (Tooling Change),44.8,85.3,Malam,
+DT0333,2025-11-11,M10,6.0,Kekurangan Bahan Baku,55.7,56.8,Siang,1163.0
+DT0334,2025-12-21,M07,8.2,Kekurangan Bahan Baku,63.5,82.6,Pagi,1025.0
+DT0335,2025-12-16,M10,6.2,Kerusakan Mekanis,56.4,77.1,Pagi,
+DT0336,2025-11-17,M05,-6.6,Kerusakan Mekanis,57.8,54.2,Pagi,385.0
+DT0337,2025-09-30,M06,12.8,Kerusakan Elektrikal,79.5,68.8,Pagi,1577.0
+DT0338,2025-09-14,M07,8.1,Kesalahan Operator,63.2,100.0,Siang,1307.0
+DT0339,2025-08-30,M02,8.2,Kerusakan Mekanis,63.5,66.1,Malam,1322.0
+DT0340,2025-12-13,M03,3.8,Kerusakan Elektrikal,48.1,66.5,Malam,
+DT0341,2025-09-18,M10,6.8,Pergantian Alat (Tooling Change),58.5,78.8,Malam,1189.0
+DT0342,2025-11-27,M07,8.4,Kerusakan Mekanis,64.2,63.9,Malam,1578.0
+DT0343,2025-08-09,M06,12.9,Kesalahan Operator,80.0,74.1,Siang,1745.0
+DT0344,2025-09-23,M01,6.9,Kesalahan Operator,59.0,65.3,Pagi,1352.0
+DT0345,2025-10-10,M01,6.6,Kerusakan Mekanis,57.8,78.0,Siang,1114.0
+DT0346,2025-12-20,M06,12.8,Kerusakan Elektrikal,79.4,71.1,Malam,1051.0
+DT0347,2025-08-19,M01,6.5,Kerusakan Mekanis,57.6,100.0,Siang,1184.0
+DT0348,2025-10-26,M02,8.9,Kerusakan Elektrikal,65.8,72.7,Pagi,930.0
+DT0349,2025-10-24,M06,13.1,Pergantian Alat (Tooling Change),80.5,68.7,Siang,
+DT0350,2025-09-28,M10,6.7,Kerusakan Mekanis,58.1,87.4,Malam,778.0
+DT0351,2025-12-25,M09,6.1,Kesalahan Operator,56.1,51.1,Siang,548.0
+DT0352,2026-01-27,M05,7.5,Kesalahan Operator,61.0,97.4,Siang,1368.0
+DT0353,2025-08-09,M10,6.2,Kekurangan Bahan Baku,56.4,57.2,Siang,1437.0
+DT0354,2026-01-18,M07,9.0,Kerusakan Mekanis,66.2,89.9,Siang,486.0
+DT0355,2026-01-12,M10,6.1,Kerusakan Mekanis,56.0,93.8,Pagi,958.0
+DT0356,2026-01-02,M03,2.5,Kerusakan Elektrikal,43.3,64.1,Pagi,
+DT0357,2025-08-23,M06,13.3,Kerusakan Mekanis,81.3,65.6,Pagi,1908.0
+DT0358,2025-10-11,M10,6.4,Kerusakan Mekanis,57.1,70.4,Malam,158.0
+DT0359,2025-11-29,M10,6.4,Kerusakan Mekanis,57.0,81.3,Pagi,1000.0
+DT0360,2025-09-07,M09,5.9,Kekurangan Bahan Baku,55.4,57.0,Malam,
+DT0361,2025-09-14,M02,8.3,Kerusakan Mekanis,63.6,70.4,Malam,953.0
+DT0362,2025-11-12,M07,8.1,Kerusakan Mekanis,63.2,67.3,Malam,870.0
+DT0363,2026-01-02,M01,6.7,Kekurangan Bahan Baku,58.1,54.7,Malam,1405.0
+DT0364,2025-08-30,M04,11.5,Kerusakan Mekanis,75.0,56.3,Malam,1701.0
+DT0365,2025-08-02,M01,6.0,Kerusakan Mekanis,55.9,73.9,Malam,1146.0
+DT0366,2026-01-30,M08,11.3,Kerusakan Mekanis,74.1,73.7,Siang,843.0
+DT0367,2025-10-17,M08,10.6,Kerusakan Mekanis,71.9,60.5,Malam,1487.0
+DT0368,2025-08-14,M01,7.0,Kerusakan Mekanis,59.2,73.2,Siang,939.0
+DT0369,2026-01-24,M10,6.0,Kerusakan Mekanis,55.7,62.3,Pagi,726.0
+DT0370,2025-09-20,M09,6.1,Kerusakan Elektrikal,56.0,91.6,Siang,1103.0
+DT0371,2025-08-21,M09,6.3,Kerusakan Mekanis,56.8,70.5,Pagi,955.0
+DT0372,2025-12-01,M05,7.1,Kerusakan Mekanis,59.6,88.5,Pagi,
+DT0373,2025-12-18,M10,6.1,Kekurangan Bahan Baku,56.2,46.6,Pagi,1509.0
+DT0374,2025-08-24,M10,6.4,Kekurangan Bahan Baku,57.0,76.8,Malam,1047.0
+DT0375,2025-12-12,M06,12.9,Kerusakan Mekanis,79.8,80.9,Pagi,694.0
+DT0376,2025-10-09,M04,11.5,Kesalahan Operator,75.0,69.9,Siang,980.0
+DT0377,2025-09-28,M08,10.4,Pergantian Alat (Tooling Change),71.2,63.9,Malam,946.0
+DT0378,2025-12-01,M01,6.4,Kerusakan Elektrikal,57.3,69.7,Malam,1320.0
+DT0379,2025-08-12,M04,11.4,Kerusakan Elektrikal,74.7,83.1,Pagi,
+DT0380,2025-08-31,M01,6.6,Kerusakan Mekanis,58.0,53.8,Malam,1388.0
+DT0381,2025-12-31,M08,11.2,Kerusakan Elektrikal,74.0,82.5,Malam,746.0
+DT0382,2026-01-28,M01,6.9,Kerusakan Elektrikal,58.9,76.8,Malam,435.0
+DT0383,2026-01-13,M08,10.5,Kesalahan Operator,71.5,68.1,Siang,1110.0
+DT0384,2025-12-22,M06,13.2,Kesalahan Operator,81.1,68.7,Siang,1216.0
+DT0385,2025-08-24,M05,6.8,Kerusakan Mekanis,58.7,72.9,Pagi,626.0
+DT0386,2025-09-26,M07,8.6,Kesalahan Operator,64.7,96.9,Pagi,744.0
+DT0387,2026-01-03,M01,6.3,Kekurangan Bahan Baku,56.9,77.2,Malam,717.0
+DT0388,2025-12-09,M09,5.9,Kekurangan Bahan Baku,55.3,57.9,Malam,615.0
+DT0389,2025-12-31,M03,3.2,Kesalahan Operator,45.8,65.5,Malam,235.0
+DT0390,2025-10-15,M09,5.8,Kerusakan Mekanis,54.9,54.8,Siang,
+DT0391,2025-11-14,M09,6.0,Kerusakan Mekanis,55.9,43.7,Siang,1490.0
+DT0392,2025-12-13,M06,12.8,Pergantian Alat (Tooling Change),79.6,54.6,Pagi,
+DT0393,2025-12-22,M06,12.4,Kerusakan Mekanis,78.1,73.8,Pagi,1290.0
+DT0394,2025-12-11,M10,5.7,Kekurangan Bahan Baku,54.6,91.1,Pagi,1154.0
+DT0395,2025-08-08,M05,7.1,Pergantian Alat (Tooling Change),59.7,86.9,Siang,
+DT0396,2025-09-07,M04,12.4,Pergantian Alat (Tooling Change),78.1,54.7,Pagi,2186.0
+DT0397,2025-10-30,M10,6.3,Kerusakan Mekanis,56.9,60.0,Siang,
+DT0398,2025-12-06,M05,7.1,Kekurangan Bahan Baku,59.4,57.9,Malam,
+DT0399,2026-01-24,M04,11.3,Kerusakan Mekanis,74.2,33.3,Malam,
+DT0400,2025-09-25,M01,7.1,Pergantian Alat (Tooling Change),59.5,69.5,Malam,
+DT0401,2025-12-20,M04,11.4,Kerusakan Elektrikal,74.7,84.0,Pagi,
+DT0402,2025-11-30,M03,3.2,Kekurangan Bahan Baku,45.9,68.2,Malam,1049.0
+DT0403,2025-09-19,M08,10.9,Pergantian Alat (Tooling Change),73.0,53.0,Malam,1879.0
+DT0404,2025-09-01,M06,12.9,Kerusakan Elektrikal,79.8,59.3,Siang,1135.0
+DT0405,2025-11-23,M04,11.7,Kerusakan Elektrikal,75.7,67.1,Pagi,1640.0
+DT0406,2025-09-30,M10,6.4,Kerusakan Elektrikal,57.0,83.6,Malam,
+DT0407,2025-09-08,M05,7.0,Kerusakan Elektrikal,59.1,69.3,Malam,1219.0
+DT0408,2025-09-10,M05,7.2,Kekurangan Bahan Baku,59.8,81.5,Siang,
+DT0409,2025-09-10,M08,10.5,Pergantian Alat (Tooling Change),71.6,70.8,Pagi,1078.0
+DT0410,2025-08-17,M03,-2.8,Kerusakan Mekanis,44.5,75.6,Siang,1075.0
+DT0411,2025-09-04,M05,7.3,Kerusakan Mekanis,60.3,57.9,Malam,985.0
+DT0412,2026-01-26,M08,10.8,Kerusakan Elektrikal,72.6,61.7,Siang,1854.0
+DT0413,2025-09-04,M04,11.4,Kerusakan Mekanis,74.8,53.2,Pagi,1864.0
+DT0414,2025-10-14,M05,7.2,Kekurangan Bahan Baku,59.9,81.0,Malam,448.0
+DT0415,2025-10-31,M01,6.9,Kerusakan Elektrikal,58.8,67.6,Malam,
+DT0416,2025-12-07,M08,10.4,Kerusakan Mekanis,71.0,20.0,Malam,897.0
+DT0417,2025-09-26,M09,6.2,Kekurangan Bahan Baku,56.6,79.2,Malam,
+DT0418,2025-12-30,M07,8.4,Kerusakan Mekanis,64.2,86.6,Siang,
+DT0419,2025-12-21,M06,12.9,Kekurangan Bahan Baku,79.9,59.8,Pagi,1108.0
+DT0420,2025-11-02,M09,6.0,Kerusakan Mekanis,55.8,79.2,Pagi,
+DT0421,2026-01-11,M09,6.2,Kerusakan Mekanis,56.3,68.9,Pagi,1246.0
+DT0422,2025-10-03,M05,6.3,Kerusakan Mekanis,56.8,40.2,Malam,
+DT0423,2025-10-29,M07,8.1,Kerusakan Elektrikal,63.1,100.0,Malam,645.0
+DT0424,2025-11-18,M10,6.4,Kekurangan Bahan Baku,57.2,68.9,Siang,1528.0
+DT0425,2025-09-05,M03,3.6,Kerusakan Elektrikal,47.5,75.0,Malam,620.0
+DT0426,2025-08-15,M08,10.9,Kerusakan Mekanis,72.8,62.6,Pagi,1354.0
+DT0427,2026-01-30,M04,11.3,Kerusakan Elektrikal,74.4,67.6,Malam,1503.0
+DT0428,2025-08-09,M01,6.7,Kerusakan Elektrikal,58.1,74.4,Siang,418.0
+DT0429,2025-08-09,M05,6.6,Pergantian Alat (Tooling Change),57.8,56.4,Siang,925.0
+DT0430,2025-08-19,M06,13.1,Kerusakan Mekanis,80.4,97.4,Siang,2066.0
+DT0431,2025-11-09,M08,10.8,Kekurangan Bahan Baku,72.4,84.6,Pagi,1581.0
+DT0432,2025-09-19,M02,8.8,Kekurangan Bahan Baku,65.6,79.8,Siang,1232.0
+DT0433,2025-09-10,M06,12.6,Kekurangan Bahan Baku,79.0,69.9,Siang,1745.0
+DT0434,2026-01-05,M07,8.7,Kerusakan Elektrikal,65.2,60.6,Siang,1610.0
+DT0435,2026-01-19,M07,7.9,Kerusakan Mekanis,62.3,87.5,Malam,
+DT0436,2026-01-08,M09,6.0,Kerusakan Mekanis,55.8,81.2,Pagi,
+DT0437,2025-09-29,M08,10.9,Pergantian Alat (Tooling Change),72.9,66.0,Pagi,822.0
+DT0438,2025-08-16,M05,6.8,Kerusakan Elektrikal,58.5,55.7,Siang,1392.0
+DT0439,2026-01-23,M03,3.0,Kerusakan Elektrikal,45.1,48.4,Pagi,1350.0
+DT0440,2025-11-08,M09,6.1,Kerusakan Elektrikal,56.2,72.4,Malam,924.0
+DT0441,2026-01-26,M09,6.3,Kerusakan Mekanis,56.9,68.3,Malam,1609.0
+DT0442,2025-08-31,M02,8.7,Kerusakan Mekanis,65.2,89.8,Siang,1224.0
+DT0443,2026-01-20,M05,7.0,Kerusakan Elektrikal,59.2,86.9,Malam,
+DT0444,2025-09-26,M08,11.0,Kerusakan Mekanis,73.3,72.6,Siang,
+DT0445,2025-12-24,M07,8.0,Kesalahan Operator,62.6,70.8,Malam,1249.0
+DT0446,2025-08-21,M09,5.8,Kerusakan Mekanis,55.0,54.7,Pagi,
+DT0447,2025-12-14,M03,2.4,Kekurangan Bahan Baku,43.2,87.9,Malam,836.0
+DT0448,2025-10-26,M10,6.4,Kerusakan Mekanis,57.0,71.1,Malam,823.0
+DT0449,2026-01-22,M03,3.0,Pergantian Alat (Tooling Change),45.1,81.1,Siang,
+DT0450,2025-08-28,M01,7.0,Pergantian Alat (Tooling Change),59.4,89.7,Malam,1189.0
+DT0451,2025-09-10,M08,10.9,Kerusakan Mekanis,72.7,63.5,Pagi,
+DT0452,2025-11-25,M10,6.0,Kerusakan Elektrikal,55.8,59.6,Malam,1267.0
+DT0453,2025-12-27,M04,11.6,Kesalahan Operator,75.2,100.0,Malam,
+DT0454,2026-01-10,M02,7.9,Kerusakan Elektrikal,62.5,80.9,Malam,290.0
+DT0455,2025-08-21,M09,5.9,Kerusakan Mekanis,55.4,67.8,Malam,
+DT0456,2025-08-02,M01,5.9,Pergantian Alat (Tooling Change),55.5,90.6,Pagi,965.0
+DT0457,2025-10-06,M07,8.5,Kerusakan Mekanis,64.4,67.4,Pagi,1126.0
+DT0458,2025-08-18,M02,8.4,Kerusakan Mekanis,64.2,76.9,Siang,1021.0
+DT0459,2025-10-13,M07,8.3,Pergantian Alat (Tooling Change),63.9,63.5,Pagi,1291.0
+DT0460,2025-10-27,M02,8.2,Kesalahan Operator,63.5,71.7,Siang,918.0
+DT0461,2026-01-30,M04,11.3,Kerusakan Mekanis,74.4,67.9,Siang,
+DT0462,2025-08-07,M05,7.1,Kerusakan Mekanis,59.5,60.7,Malam,1610.0
+DT0463,2025-09-28,M10,5.8,Kerusakan Mekanis,54.9,75.6,Pagi,755.0
+DT0464,2025-10-01,M08,10.9,Pergantian Alat (Tooling Change),72.9,62.4,Malam,995.0
+DT0465,2025-11-10,M10,6.0,Pergantian Alat (Tooling Change),55.6,80.6,Pagi,1054.0
+DT0466,2025-09-28,M06,12.2,Kesalahan Operator,77.4,67.4,Pagi,1230.0
+DT0467,2025-11-24,M03,3.2,Kerusakan Mekanis,46.0,46.2,Pagi,961.0
+DT0468,2026-01-03,M05,7.3,Kerusakan Mekanis,60.2,81.3,Malam,420.0
+DT0469,2025-12-03,M06,12.5,Kerusakan Elektrikal,78.6,81.6,Malam,
+DT0470,2025-11-29,M06,12.5,Kerusakan Mekanis,78.5,100.0,Malam,1774.0
+DT0471,2025-08-22,M10,6.1,Kerusakan Mekanis,56.2,72.3,Pagi,
+DT0472,2026-01-10,M09,5.8,Kerusakan Mekanis,54.9,74.7,Siang,999.0
+DT0473,2025-11-11,M02,8.3,Kekurangan Bahan Baku,63.8,79.2,Malam,447.0
+DT0474,2025-08-31,M08,10.9,Kekurangan Bahan Baku,72.8,87.3,Pagi,1099.0
+DT0475,2025-11-25,M03,3.5,Pergantian Alat (Tooling Change),46.9,86.4,Siang,
+DT0476,2025-10-29,M06,12.6,Kerusakan Mekanis,78.8,76.8,Pagi,1324.0
+DT0477,2026-01-13,M10,6.5,Kekurangan Bahan Baku,57.5,71.5,Siang,928.0
+DT0478,2025-11-27,M09,6.1,Kerusakan Elektrikal,56.2,84.6,Malam,
+DT0479,2026-01-23,M05,6.4,Kerusakan Mekanis,57.0,70.9,Malam,1387.0
+DT0480,2026-01-26,M01,6.6,Kerusakan Elektrikal,57.9,52.7,Pagi,1481.0
+DT0481,2025-09-13,M10,6.2,Pergantian Alat (Tooling Change),56.3,49.5,Siang,859.0
+DT0482,2025-09-23,M10,6.6,Kerusakan Mekanis,58.0,67.6,Siang,1771.0
+DT0483,2025-09-08,M04,12.0,Pergantian Alat (Tooling Change),76.7,73.8,Malam,1948.0
+DT0484,2025-09-12,M02,8.6,Kerusakan Elektrikal,64.9,100.0,Malam,1268.0
+DT0485,2025-12-04,M06,13.0,Kekurangan Bahan Baku,80.4,70.2,Malam,
+DT0486,2026-01-21,M09,6.0,Pergantian Alat (Tooling Change),55.6,72.7,Pagi,691.0
+DT0487,2025-10-29,M05,7.2,Kekurangan Bahan Baku,59.9,65.9,Malam,1136.0
+DT0488,2025-12-26,M01,6.7,Kerusakan Elektrikal,58.0,81.3,Malam,531.0
+DT0489,2025-12-15,M05,7.2,Kerusakan Mekanis,59.9,76.2,Malam,782.0
+DT0490,2025-09-17,M06,13.0,Kerusakan Elektrikal,80.4,62.4,Siang,786.0
+DT0491,2026-01-03,M10,6.4,Pergantian Alat (Tooling Change),57.2,56.8,Malam,594.0
+DT0492,2025-10-27,M09,5.8,Kesalahan Operator,55.0,66.0,Pagi,1046.0
+DT0493,2025-08-02,M07,8.2,Kekurangan Bahan Baku,63.6,59.3,Siang,775.0
+DT0494,2025-12-09,M05,7.1,Pergantian Alat (Tooling Change),59.6,68.5,Malam,
+DT0495,2026-01-08,M10,6.5,Kekurangan Bahan Baku,57.4,74.1,Siang,
+DT0496,2025-09-14,M03,2.9,Kekurangan Bahan Baku,44.9,64.5,Pagi,893.0
+DT0497,2025-09-18,M04,11.4,Kerusakan Mekanis,74.8,93.8,Siang,1134.0
+DT0498,2025-12-13,M09,6.1,Kerusakan Elektrikal,56.0,89.4,Pagi,1091.0
+DT0499,2026-01-25,M10,6.1,Kerusakan Elektrikal,56.2,68.6,Malam,762.0
+DT0500,2025-09-17,M09,-5.9,Kerusakan Elektrikal,55.5,57.5,Siang,711.0
+DT0501,2025-10-18,M08,11.3,Kerusakan Elektrikal,74.4,71.6,Siang,990.0
+DT0502,2025-12-03,M10,6.1,Kesalahan Operator,55.9,70.0,Siang,482.0
+DT0503,2026-01-04,M02,8.7,Pergantian Alat (Tooling Change),65.0,71.1,Pagi,1048.0
+DT0504,2025-08-07,M07,8.4,Pergantian Alat (Tooling Change),64.2,66.0,Pagi,774.0
+DT0505,2025-09-06,M05,6.5,Pergantian Alat (Tooling Change),57.5,56.3,Siang,1360.0
+DT0506,2026-01-11,M06,12.3,Pergantian Alat (Tooling Change),77.8,72.5,Siang,1170.0
+DT0507,2025-11-05,M03,2.8,Kekurangan Bahan Baku,44.6,66.7,Siang,
+DT0508,2025-12-17,M05,6.3,Kerusakan Mekanis,56.7,68.1,Siang,1710.0
+DT0509,2025-08-12,M03,-3.4,Pergantian Alat (Tooling Change),46.6,73.4,Siang,510.0
+DT0510,2025-08-17,M07,8.3,Kerusakan Mekanis,63.6,71.0,Pagi,1021.0
+DT0511,2025-12-13,M10,6.1,Kekurangan Bahan Baku,56.0,73.1,Siang,1275.0
+DT0512,2025-10-08,M01,7.0,Kerusakan Mekanis,59.2,66.0,Pagi,
+DT0513,2026-01-20,M10,6.2,Kerusakan Elektrikal,56.3,77.4,Malam,633.0
+DT0514,2025-10-18,M07,-8.6,Kerusakan Mekanis,64.7,61.2,Malam,1319.0
+DT0515,2026-01-02,M01,6.5,Kekurangan Bahan Baku,57.3,55.7,Pagi,1484.0
+DT0516,2025-11-08,M06,12.7,Pergantian Alat (Tooling Change),79.2,58.7,Malam,938.0
+DT0517,2025-12-03,M02,8.8,Kerusakan Mekanis,65.5,61.8,Malam,
+DT0518,2025-11-28,M09,5.8,Kerusakan Mekanis,54.9,52.7,Malam,1264.0
+DT0519,2025-08-22,M03,3.0,Kesalahan Operator,45.3,46.6,Malam,1152.0
+DT0520,2025-12-24,M01,5.9,Kerusakan Mekanis,55.4,79.6,Pagi,567.0
