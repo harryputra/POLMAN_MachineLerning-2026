@@ -57,12 +57,12 @@ Di dunia industri, model ML **tidak berdiri sendiri**. Ia harus diintegrasikan k
 | Output | Format | Deadline |
 |---|---|---|
 | **Laporan Progres Hari ke-3** | `.doc` / `.docx` | Hari ke-3, pukul 23:59 WIB |
-| **Laporan Progres Hari ke-4** | `.doc` / `.docx` | Hari ke-4, pukul 23:59 WIB |
-| **Source Code** | Git Repository | Hari ke-4, pukul 23:59 WIB |
-| **Aplikasi Web** | Link/Video Demo | Hari ke-4, saat presentasi |
-| **Slide Presentasi** | `.pdf` / `.pptx` | Hari ke-4, saat presentasi |
+| **Link Dataset** | Link | Hari ke-3, simpan dalam laporan harian |
+| **Laporan Progres Hari ke-4** | `.doc` / `.docx` | Hari ke-4, pukul 13.00 WIB |
+| **Source Code** | Git Repository | Hari ke-4, pukul 13.00 WIB |
+| **Slide Presentasi** | `.pptx` | Hari ke-4, saat presentasi |
 
-
+link pengumpulan : https://forms.gle/nHujXpbpar3dmc4Q7
 ## 2. TUJUAN PEMBELAJARAN
 
 Setelah menyelesaikan tugas ini, mahasiswa diharapkan mampu:
@@ -79,7 +79,7 @@ Setelah menyelesaikan tugas ini, mahasiswa diharapkan mampu:
 
 ### 3.1 Pembagian Kelompok
 
-Dosen akan membagi kelas menjadi **beberapa kelompok** (4–5 mahasiswa per kelompok). Setiap kelompok **wajib** menggunakan dataset yang **berbeda** — tidak boleh ada duplikasi antar kelompok.
+Bagi kelompok kelas menjadi **beberapa kelompok** (4–5 mahasiswa per kelompok). Setiap kelompok **wajib** menggunakan dataset yang **berbeda** — tidak boleh ada duplikasi antar kelompok.
 
 ### 3.2 Daftar Dataset per Kelompok
 
@@ -186,7 +186,7 @@ Minimal **1 visualisasi** dari pilihan berikut:
 
 - **Format:** `.doc` atau `.docx`.
 - **Isi:** Lihat bagian 7.
-- **Deadline:** Hari ke-3 pukul 23:59 WIB dan Hari ke-4 pukul 23:59 WIB.
+- **Deadline:** Hari ke-3 pukul 23:59 WIB dan Hari ke-4 pukul 13.00 WIB.
 
 #### R7 — Presentasi
 
@@ -226,20 +226,20 @@ Setiap kelompok (4–5 mahasiswa) **wajib** memiliki peran berikut:
 ### 5.3 Aturan Kontribusi
 
 1. **Setiap anggota wajib push minimal 3 commit per hari** ke repository kelompok.
-2. **Setiap anggota wajib hadir** di daily standup (minimal 1x/hari, bisa online).
+2. **Setiap anggota wajib hadir** di daily standup (minimal 1x/hari).
 3. **Setiap anggota wajib memahami** keseluruhan sistem, bukan hanya bagiannya.
 4. **Jika ada anggota tidak berkontribusi**, laporkan ke dosen dengan bukti (log commit, chat).
 
 ### 5.4 Daily Standup (Wajib)
 
-Setiap hari, kelompok **wajib** melakukan **daily standup** minimal 15 menit (bisa online via Google Meet/Zoom). Agenda:
+Setiap hari, kelompok **wajib** melakukan **daily standup** minimal 15 menit. Agenda:
 
 1. **Apa yang sudah dikerjakan kemarin?**
 2. **Apa yang akan dikerjakan hari ini?**
 3. **Apakah ada hambatan?**
 4. **Update timeline.**
 
-**Bukti:** Screenshot meeting + notulensi singkat di laporan progres.
+**Bukti:** notulensi singkat dan simpan di laporan progres masing masing anggota.
 
 
 ## 6. TIMELINE 2 HARI
@@ -258,27 +258,32 @@ Setiap hari, kelompok **wajib** melakukan **daily standup** minimal 15 menit (bi
 | **17:00–19:00** | ISHOMA | — | — |
 | **19:00–21:00** | Backend Dev: Flask API + integrasi model | Backend Dev | `app.py` |
 | **21:00–22:00** | Daily standup + evaluasi hari ke-3 | Semua | Notulensi |
-| **22:00–23:00** | Menyusun laporan progres hari ke-3 | Koordinator | Laporan hari ke-3 |
+| **22:00–23:00** | Menyusun laporan progres hari ke-3 masing masing anggota | Koordinator | Laporan hari ke-3 |
 | **23:59** | **DEADLINE Laporan Progres Hari ke-3** | — | Upload ke Google Drive |
 
-### 6.2 Hari ke-4 (Pertemuan 4)
+Berikut revisi jadwal **Hari ke-4 (Pertemuan 4)** dengan ketentuan:
+
+- **Maksimal pengumpulan laporan progres: 13.00**
+- **Setelah 13.00: paparan masing-masing kelompok sampai 15.40**
 
 | Waktu | Aktivitas | PIC | Output |
 |---|---|---|---|
 | **08:00–09:00** | Daily standup + review hari ke-3 | Semua | Notulensi |
 | **09:00–11:00** | Frontend Dev: HTML/CSS/JS | Backend Dev | Templates + static |
 | **09:00–11:00** | Data Engineer: Dokumentasi dataset | Data Engineer | `README_data.md` |
-| **11:00–12:00** | Integrasi frontend + backend | Backend Dev | Aplikasi berjalan |
+| **11:00–12:00** | Integrasi frontend + backend + finalisasi laporan progres | Backend Dev & Koordinator | Aplikasi berjalan + laporan siap |
 | **12:00–13:00** | ISHOMA | — | — |
-| **13:00–14:00** | Testing end-to-end | Semua | Bug report |
-| **14:00–15:00** | Bug fixing + polish | Backend Dev | Aplikasi stabil |
-| **15:00–16:00** | Menyusun slide presentasi | Koordinator | Slide |
-| **16:00–17:00** | Latihan presentasi | Semua | Feedback |
+| **13:00** | **DEADLINE PENGUMPULAN LAPORAN PROGRES** | Koordinator | Laporan progres terkirim |
+| **13:00–15:40** | Paparan masing-masing kelompok | Semua | Slide + feedback |
+| **15:40–16:00** | Penutup, arahan, dan tindak lanjut | Koordinator | Notulensi penutup |
+| **16:00–17:00** | Bug fixing + polish | Backend Dev | Aplikasi stabil |
 | **17:00–19:00** | ISHOMA | — | — |
-| **19:00–21:00** | Finalisasi laporan progres hari ke-4 | Koordinator | Laporan hari ke-4 |
+| **19:00–21:00** | Rekap feedback + finalisasi laporan akhir | Koordinator | Laporan akhir |
 | **21:00–22:00** | Push final ke Git + bersihkan repository | Semua | Repo final |
 | **22:00–23:00** | Upload semua deliverables ke Google Drive | Koordinator | Deliverables |
 | **23:59** | **DEADLINE SEMUA OUTPUT** | — | — |
+
+Catatan: durasi paparan tiap kelompok dapat dibagi menyesuaikan jumlah kelompok dalam rentang **13.00–15.40**.
 
 ### 6.3 Checklist Timeline
 
@@ -318,7 +323,7 @@ Setiap hari, kelompok **wajib** melakukan **daily standup** minimal 15 menit (bi
 | **Font** | Times New Roman 12 pt |
 | **Spasi** | 1.5 |
 | **Jumlah Halaman** | 2–4 halaman per laporan |
-| **Deadline** | Hari ke-3 & Hari ke-4, pukul 23:59 WIB |
+| **Deadline** | Hari ke-3 & Hari ke-4 |
 
 ### 7.2 Struktur Laporan Progres
 
@@ -346,7 +351,7 @@ Anggota Kelompok:
 PROGRAM STUDI D4 TEKNOLOGI REKAYASA
 INFORMATIKA DAN KOMPUTER
 POLITEKNIK MANUFAKTUR BANDUNG
-2025
+2026
 ═══════════════════════════════════════════════════════════
 ```
 
@@ -962,7 +967,7 @@ Proyek ini dibuat untuk keperluan edukasi di Politeknik Manufaktur Bandung.
 ═══════════════════════════════════════════════════════════
 
 Hari ke-     : 3
-Tanggal      : 15 Januari 2025
+Tanggal      : 15 Januari 2026
 Nama Kelompok: Alpha Team
 Kelas        : D4 TRIN 2A
 Dataset      : AI4I 2020 Predictive Maintenance
@@ -1045,7 +1050,7 @@ Link Repository: https://github.com/alphateam/smart-ml-alpha
 ───────────────────────────────────────────────────────────
 7. NOTULENSI DAILY STANDUP
 
-Tanggal: 15 Januari 2025
+Tanggal: 15 Januari 2026
 Waktu: 21:00 WIB
 Durasi: 20 menit
 Media: Google Meet
